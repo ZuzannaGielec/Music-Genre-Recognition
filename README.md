@@ -58,11 +58,6 @@ The results obtained from the series of experiments highlight the distinctive st
 
 In summary, this report has explored the application of various machine learning techniques to the task of song genre classification. It is evident that while traditional methods like Decision Trees provide a baseline understanding, ensemble methods such as Random Forest and Gradient Boosting offer substantial improvements. The application of a Convolutional Neural Network, though less effective than anticipated, opens avenues for future exploration into deep learning architectures specifically designed for audio data. Future work should focus on integrating domain-specific knowledge into the models and exploring the potential of unsupervised and semi-supervised learning paradigms.
 
-## 6. Authors Contributions
-
-- **Filip Chmiel:** Methodology, Software, Investigation, Writing – Original Draft
-- **Zuzanna Gielec:** Validation, Visualization, Writing - Review & Editing
-
 ## 7. References
 
 - scikit-learn documentation: https://scikit-learn.org/stable/modules/tree.html
